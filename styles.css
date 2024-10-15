@@ -1369,6 +1369,9 @@ footer {
     .service-box{
         width: 100%;
     }
+    .download-btns{
+        margin: auto;
+    }
 }
 
 @media (max-width:320px) {
@@ -1381,6 +1384,7 @@ footer {
     }
     .download-btns{
         flex-direction: column;
+         margin: auto;
     }
     .download-btns a{
         margin: 4px 0;
